@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 
 // MongoDB connection string
-const uri = "mongodb+srv://deletezajac:Picovina123@cluster0.barwmwe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const uri = "MONGO CONNECT";
 
 // Initialize the express app
 const app = express();
