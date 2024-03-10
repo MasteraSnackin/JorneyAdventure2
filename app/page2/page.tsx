@@ -61,13 +61,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-          Time Traveler{" "}
+          Curious Mathematician{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-          Equipped with a malfunctioning time device, you find yourself trapped in a series of unpredictable eras, from the distant past to the far future.
+          Armed with a passion for numbers and patterns, this character delves into the mysteries of an imaginary world
           </p>
         </a>
 
@@ -77,13 +77,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-          Dimensional Wanderer{" "}
+          Innovative Scientist{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-          After a bizarre encounter with an ancient artifact, you gain the ability to walk between dimensions.
+          This character is driven by an insatiable curiosity about how things work, blending a deep knowledge of physics and chemistry
           </p>
         </a>
 
@@ -93,13 +93,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-          Cybernetic Detective{" "}
+          Wise Biologist{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-          In a futuristic city where technology and humanity intertwine, you are a detective with advanced cybernetic enhancements.
+          Venturing through lush forests and mysterious underwater realms, this character's expertise in biology illuminates the interconnected web of life
           </p>
         </a>
 
@@ -109,13 +109,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-          Mythical Beast Tamer{" "}
+          Resourceful Historian{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-          Born in a world where mythical creatures roam the land, you possess the rare gift to communicate and bond with these beings.
+          This character possesses a profound connection to the past, wielding knowledge of history and archaeology to decode the lore and legends
           </p>
         </a>
       </div>

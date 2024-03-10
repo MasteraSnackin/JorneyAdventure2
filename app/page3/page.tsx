@@ -4,7 +4,7 @@ import { TextGenerateEffect } from "../components/ui/text-generate-effect";
 import React from "react";
 import { SparklesCore } from "@/app/components/ui/sparkles";
  
-const words = `Oxygen gets you high. In a catastrophic emergency, we're taking giant, panicked breaths. Suddenly you become euphoric, docile. You accept your fate. It's all right here. Emergency water landing, six hundred miles an hour. Blank faces, calm as Hindu cows
+const words = `Your calculations are correct. The rate of fuel consumption is 1/8 tank per hour, which means you have enough fuel for a safe landing and exploration. As you gently land on the surface of Titan, the door of the spacecraft opens, revealing a breathtaking landscape filled with lakes of liquid methane and ethane. With limited time before you need to return to Earth, you decide to explore one of two nearby features: a mysterious cave formation to the north, believed to contain ice volcanoes, or a vast, seemingly bottomless methane lake to the south, rumored to hide secrets beneath its mirror-like surface. Which do you choose to explore?
 `;
  
 export function TextGenerateEffectDemo() {
@@ -95,13 +95,13 @@ export default function Home() {
             
             
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            Adventure{" "}
+          Investigate the cave formation{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Explore depths of generative AI mind. Enjoy unique experience from diving into unknown.
+          Who knows what monsters you encounter!
           </p>
         </a>
 
@@ -111,13 +111,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            Exploration{" "}
+          Explore the methane lake{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Flourish your skils by adaptive tasks following up your progression!
+          Your laboratory need new data to analyze
           </p>
         </a>
       </div>
