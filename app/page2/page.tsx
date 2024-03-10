@@ -56,36 +56,87 @@ export default function Home() {
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-flex lg:mb-0 lg:grid-cols-2 lg:text-left">
         <a
-          href="/page2/"
+          href="/page3/"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            Adventure{" "}
+          Time Traveler{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Explore depths of generative AI mind. Enjoy unique experience from diving into unknown.
+          Equipped with a malfunctioning time device, you find yourself trapped in a series of unpredictable eras, from the distant past to the far future.
           </p>
         </a>
 
         <a
-          href="/page2/"
+          href="/page3/"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            Exploration{" "}
+          Dimensional Wanderer{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Flourish your skils by adaptive tasks following up your progression!
+          After a bizarre encounter with an ancient artifact, you gain the ability to walk between dimensions.
           </p>
         </a>
+
+        <a
+          href="/page3/"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+          rel="noopener noreferrer"
+        >
+          <h2 className={`mb-3 text-2xl font-semibold`}>
+          Cybernetic Detective{" "}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+          In a futuristic city where technology and humanity intertwine, you are a detective with advanced cybernetic enhancements.
+          </p>
+        </a>
+
+        <a
+          href="/page3/"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+          rel="noopener noreferrer"
+        >
+          <h2 className={`mb-3 text-2xl font-semibold`}>
+          Mythical Beast Tamer{" "}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+          Born in a world where mythical creatures roam the land, you possess the rare gift to communicate and bond with these beings.
+          </p>
+        </a>
+      </div>
+
+      <div className="flex w-full max-w-md items-center space-x-2">
+        <div className="grid w-full grid-cols-3 gap-1">
+          <input
+            type="text"
+            placeholder="Get your own story..."
+            className="col-span-2"
+
+          />
+
+          <a
+            href="/page3/" // Make sure this href is correct for your "continue" button
+            className="col-span-1 w-full justify-center items-center rounded-lg bg-gradient-to-r from-blue-500 to-purple-500 px-5 py-2 text-black transition-colors hover:bg-white
+            "
+          >
+            Continue
+          </a>
+        </div>
       </div>
     </main>
   );
