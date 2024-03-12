@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
@@ -16,17 +14,13 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-
 Backend service is currently not connected to Mongo https://mml.unegma.ai/.
 
 Const words is prompt holder for ai output.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Choose your own adventure  (CYOA)
+**Choose your own adventure  (CYOA)**
 
 In recent years, the intersection of artificial intelligence (AI) and interactive storytelling has led to the emergence of a new frontier in gaming: AI-powered Choose Your Own Adventure (CYOA) games. These games offer players unprecedented freedom and immersion, allowing them to shape the narrative through their choices and interactions. Leveraging advanced AI models such as GPT-3.5 to GPT3, CYOA games present dynamic storytelling experiences that adapt to player input in real-time. This white paper explores the potential of AI-powered CYOA games, their applications across various industries, and the future of interactive storytelling.
 
