@@ -19,7 +19,8 @@ Backend service is currently not connected to Mongo https://mml.unegma.ai/.
 Const words is prompt holder for ai output.
 
 
-***********************************************************************Whitepaper section"***********************************************************************************"
+///////////////////////////////////////////////////**Whitepaper section:**\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 
 ![Screenshot 2024-03-12 183135](https://github.com/Mild-Solvent/Journey-Adventure/assets/115463208/6e97b0ad-d565-4f9d-bd76-d1970ff2a6e8)
 
